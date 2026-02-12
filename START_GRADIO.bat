@@ -1,11 +1,7 @@
 @echo off
 REM Cats vs Dogs Classifier - Gradio Launcher
 
-echo.
-echo =========================================
 echo Cats vs Dogs Classifier - Gradio
-echo =========================================
-echo.
 
 REM Check if Python 3.10 is installed
 py -3.10 --version >nul 2>&1
