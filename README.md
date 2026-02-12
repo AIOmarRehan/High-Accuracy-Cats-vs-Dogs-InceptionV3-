@@ -162,6 +162,7 @@ The model achieves an AUC score close to **1.0**, which indicates excellent clas
 
 ## Results
 
+### Click the thumbnail image to watch the results
 [![Watch Video](https://d.uguu.se/LfbXEaOY.jpg)](https://n.uguu.se/wNNZozru.mp4)
 
 
