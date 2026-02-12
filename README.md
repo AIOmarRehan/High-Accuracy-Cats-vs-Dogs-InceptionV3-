@@ -162,6 +162,9 @@ The model achieves an AUC score close to **1.0**, which indicates excellent clas
 
 ## Results
 
-[Watch the video](https://n.uguu.se/wNNZozru.mp4)
+<video width="600" controls>
+  <source src="https://n.uguu.se/wNNZozru.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
