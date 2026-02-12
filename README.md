@@ -143,7 +143,7 @@ Most predictions lie along the diagonal, meaning the model correctly classifies 
 
 | Binary Classification ROC Curve | (OvR) ROC Curve – Multi-Class Classification |
 |-------|-------|
-| <img src="https://files.catbox.moe/iou784.png" width="490"/> | <img src="https://files.catbox.moe/pz3mv7.png" width="540"/> |
+| <img src="https://files.catbox.moe/iou784.png" width="490"/> | <img src="https://files.catbox.moe/pz3mv7.png" width="520"/> |
 
 
 
