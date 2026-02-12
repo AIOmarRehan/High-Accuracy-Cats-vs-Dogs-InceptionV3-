@@ -159,3 +159,9 @@ The model achieves an AUC score close to **1.0**, which indicates excellent clas
 * Proper evaluation metrics give deeper insight into model performance.
 
 ---
+
+## Results
+
+[Watch the video](https://n.uguu.se/wNNZozru.mp4)
+
+---
