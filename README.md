@@ -2,6 +2,10 @@
 
 ---
 
+[The project is also available for testing on Hugging Face.](https://huggingface.co/spaces/AIOmarRehan/Inceptionv3_Dog_VS_Cat_Classifier)
+
+---
+
 # Cats vs Dogs Image Classification (InceptionV3 + TensorFlow)
 
 ## Project Overview
